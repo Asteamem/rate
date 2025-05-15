@@ -17,7 +17,6 @@ var prizes = []string{
 	"大外れ",
 	"中外れ",
 	"小外れ",
-	"帰れ",
 }
 
 func Handler(w http.ResponseWriter, r *http.Request) {
